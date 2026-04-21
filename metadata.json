@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Chat",
+  "description": "A sophisticated AI chatbot powered by Gemini 3 Flash, featuring real-time streaming, conversation history, and advanced safety guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
